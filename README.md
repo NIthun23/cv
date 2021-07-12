@@ -1,1 +1,1 @@
-This repository shows my diffent projects on front-end web development,
+This repository shows my different projects on front-end web development. 
